@@ -1,0 +1,8 @@
+C:\Users\lua.souza\MiniPoker\MiniPoker.Test\obj\Debug\MiniPoker.Test.csprojResolveAssemblyReference.cache
+C:\Users\lua.souza\MiniPoker\MiniPoker.Test\bin\Debug\MiniPoker.Test.dll
+C:\Users\lua.souza\MiniPoker\MiniPoker.Test\bin\Debug\MiniPoker.Test.pdb
+C:\Users\lua.souza\MiniPoker\MiniPoker.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\lua.souza\MiniPoker\MiniPoker.Test\bin\Debug\MiniPoker.exe
+C:\Users\lua.souza\MiniPoker\MiniPoker.Test\bin\Debug\MiniPoker.pdb
+C:\Users\lua.souza\MiniPoker\MiniPoker.Test\obj\Debug\MiniPoker.Test.dll
+C:\Users\lua.souza\MiniPoker\MiniPoker.Test\obj\Debug\MiniPoker.Test.pdb

@@ -1,0 +1,6 @@
+C:\Users\lua.souza\MiniPoker\MiniPoker\bin\Debug\MiniPoker.exe.config
+C:\Users\lua.souza\MiniPoker\MiniPoker\bin\Debug\MiniPoker.exe
+C:\Users\lua.souza\MiniPoker\MiniPoker\bin\Debug\MiniPoker.pdb
+C:\Users\lua.souza\MiniPoker\MiniPoker\obj\Debug\MiniPoker.exe
+C:\Users\lua.souza\MiniPoker\MiniPoker\obj\Debug\MiniPoker.pdb
+C:\Users\lua.souza\MiniPoker\MiniPoker\obj\Debug\MiniPoker.csprojResolveAssemblyReference.cache
